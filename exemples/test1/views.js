@@ -1,9 +1,8 @@
 /*********************************************
-	Devloper : Killian CHARPENTIER
-	Date : dd/mm/yyyy
+	Developer : Killian CHARPENTIER
+	Date : 23/01/2014
 	Version : 0.0.1
-	README :
-		Plugin for BackBoneJS to have scroll infinite
+	Folder : /test1/
 
 *********************************************/
 	var View = ScrollInfinite.extend({

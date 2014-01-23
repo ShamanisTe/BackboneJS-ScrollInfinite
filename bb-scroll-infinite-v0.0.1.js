@@ -1,5 +1,5 @@
 /*********************************************
-	Devloper : Killian CHARPENTIER
+	Developer : Killian CHARPENTIER
 	Date : 23/01/2014
 	Version : 0.0.1
 	README :
